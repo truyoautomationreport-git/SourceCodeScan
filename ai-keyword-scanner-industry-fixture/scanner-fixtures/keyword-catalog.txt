@@ -1,0 +1,126 @@
+AI Keyword Scanner Fixture Catalog
+================================
+
+Azure Machine Learning
+- from azureml.core import Workspace
+- import azureml.core
+
+Oracle AI
+- import oci
+- from oci.ai_language import AIServiceLanguage
+
+Domino Data Lab
+- from dominodatalab import Domino
+- from domino import Project
+
+H2O.ai Driverless AI
+- from h2oai_client import Client
+- import h2oai_client
+
+Databricks MLflow
+- import mlflow
+
+Snowflake Snowpark
+- from snowflake.snowpark import Session
+
+CognitiveScale Cortex
+- from cortex import Cortex
+- import Cortex
+
+MindsDB
+- from mindsdb import Predictor
+
+Iguazio / MLRun
+- import mlrun
+
+Spell
+- import spell.client
+
+Neurala
+- import neurala.sdk
+
+Graphcore Poplar
+- import poplar
+- device::IPU:0
+- from optimum.graphcore import IPUConfig
+
+Comet.ml
+- import comet_ml
+
+Grid.ai
+- import gridai
+- grid.run
+
+Weights & Biases
+- import wandb
+- wandb.login
+
+Amazon SageMaker
+- using Amazon.SageMaker
+- namespace SageMakerActions
+- import com.amazonaws.services.sagemakerruntime
+- import com.amazonaws.services.sagemaker
+
+Amazon Bedrock
+- service_name='bedrock-runtime'
+- boto3.client('bedrock')
+
+Salesforce Einstein
+- com.salesforce.einsteinbot
+
+IBM Watson
+- com.ibm.watson
+
+TensorFlow
+- import tensorflow
+- org.tensorflow
+
+Google AI Platform
+- com.google.cloud.aiplatform
+
+Facebook PyTorch
+- import pytorch
+- import torch
+
+OpenAI GPT
+- import openai
+- com.openai
+
+Microsoft Azure AI
+- com.azure.ai
+
+Zendesk AI
+- zendesk.answerBot
+
+Dialogflow
+- com.google.cloud.dialogflow
+
+DataRobot
+- com.datarobot
+
+Clarifai
+- import clarifai
+- com.clarifai
+
+Wit.ai
+- com.facebook.witai
+- com.clivern.wit
+
+H2O.ai
+- water.droplets
+- ai.h2o
+
+Seldon
+- io.seldon.
+
+Fritz AI
+- import fritz
+
+BigML
+- import bigml
+
+MonkeyLearn
+- com.monkeylearn
+
+RapidMiner
+- com.rapidminer
